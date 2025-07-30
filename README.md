@@ -28,9 +28,8 @@ Hey there! I'm **Ayush Goswami** from Jamnagar, Gujarat, India 🇮🇳. I'm 21,
 <h2 align="center">🌍 Connect with Me</h2>
 
 <p align="center">
-  <a href="mailto:parthrajsinh.example@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:ayushgoswami965@gemail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayush-goswami-ag9777"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -50,19 +49,15 @@ Hey there! I'm **Ayush Goswami** from Jamnagar, Gujarat, India 🇮🇳. I'm 21,
 
 <h2 align="center">💡 My Latest Projects</h2>
 
-- 🤖 **Smart Chatbot for Campus Queries**: Uses NLP & GPT tech for real answers, real fast!
-- 📊 **Crime Data Analysis**: Predicts local crime trends using ML so you can stay woke
-- 🧑‍🔬 **Diabetes Prediction Model**: ML + healthcare = a healthier tomorrow
+- 🤖 **Ai voice assistent-Jarvis !
 
 *Check the pinned repos below 👇 for more sauce*
 
 <h2 align="center">🌍 Let’s Connect</h2>
 
 <p align="center">
-  <a href="mailto:parthrajsinh.example@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/your-spotify"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="mailto:ayushgoswami965@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayush-goswami-ag9777"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
